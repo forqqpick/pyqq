@@ -1,0 +1,21 @@
+{
+  "online":"qq.phone",
+  "qq.phone":{
+    "qq":"111111",
+    "pwd":"222222",
+    "simulate":"phone",
+    "version":"7.9.7"
+  },
+  "qq.pad":{
+    "qq":"111111",
+    "pwd":"222222",
+    "simulate":"pad",
+    "version":"5.8.5"
+  },
+  "qq.ipad":{
+    "qq":"111111",
+    "pwd":"222222",
+    "simulate":"ipad",
+    "version":"7.3.1.3"
+  }
+}
